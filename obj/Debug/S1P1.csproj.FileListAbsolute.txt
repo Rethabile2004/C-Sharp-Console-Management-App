@@ -1,0 +1,14 @@
+G:\Information Technology\Software Development\S1P1\bin\Debug\S1P1.exe.config
+G:\Information Technology\Software Development\S1P1\bin\Debug\S1P1.exe
+G:\Information Technology\Software Development\S1P1\bin\Debug\S1P1.pdb
+G:\Information Technology\Software Development\S1P1\obj\Debug\S1P1.csproj.AssemblyReference.cache
+G:\Information Technology\Software Development\S1P1\obj\Debug\S1P1.csproj.CoreCompileInputs.cache
+G:\Information Technology\Software Development\S1P1\obj\Debug\S1P1.exe
+G:\Information Technology\Software Development\S1P1\obj\Debug\S1P1.pdb
+E:\Information Technology\Software Development\S1P1\bin\Debug\S1P1.exe.config
+E:\Information Technology\Software Development\S1P1\bin\Debug\S1P1.exe
+E:\Information Technology\Software Development\S1P1\bin\Debug\S1P1.pdb
+E:\Information Technology\Software Development\S1P1\obj\Debug\S1P1.csproj.AssemblyReference.cache
+E:\Information Technology\Software Development\S1P1\obj\Debug\S1P1.csproj.CoreCompileInputs.cache
+E:\Information Technology\Software Development\S1P1\obj\Debug\S1P1.exe
+E:\Information Technology\Software Development\S1P1\obj\Debug\S1P1.pdb
